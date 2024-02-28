@@ -34,7 +34,7 @@ A função `is_leap_year` requer um parâmetro:
 ## Formato de Saída
 
 A função `is_leap_year` retorna um valor booleano indicando se o ano é bissexto ou não.
-Na main verifica se é true ou false e printa uma mensagem de acordo com o resultado da função.
+Na main verifica-se se é true ou false e printa uma mensagem de acordo com o resultado da função.
 
 **Output Fromat:**
 `Ano bissexto`
