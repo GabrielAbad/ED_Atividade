@@ -10,6 +10,9 @@ A função `imc` requer dois parâmetros:
 - **Input Format:**
    `80 1.8`
 
+## Formato de Saída
+
+Os resultados são as categorias da tabela IMC
 - **Output Fromat:**
     `Resultado de acordo com a tabela de IMC: 
     Peso normal`
