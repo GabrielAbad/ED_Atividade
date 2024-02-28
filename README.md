@@ -8,8 +8,8 @@ A função `imc` requer dois parâmetros:
 - **Peso** (float): O peso da pessoa em quilogramas (kg).
 - **Altura** (float): A altura da pessoa em metros (m).
 - **Input Format:**
-   ' 80 1.8 '
+   `80 1.8`
 
 - **Output Fromat:**
-    'Resultado de acordo com a tabela de IMC: 
-    Peso normal'
+    `Resultado de acordo com a tabela de IMC: 
+    Peso normal`
